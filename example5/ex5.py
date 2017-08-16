@@ -1,6 +1,6 @@
 name = 'Zed A. Shaw'
-age = 3
-height = 75
+age = 35
+height = 74
 weight = 180
 eyes = 'Blue'
 hair = 'Brown'
